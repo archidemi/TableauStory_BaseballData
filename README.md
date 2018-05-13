@@ -5,6 +5,17 @@ The initial version: https://public.tableau.com/profile/shanshan.ni#!/vizhome/ba
 The final version:
 
 ### Summary
+The dataset (baseball.csv) consists of 1157 players' following attributes:
++ Handedness: left, right or both
++ Height: in inches
++ Weight: in pounds
++ Avg: batting average
++ HR: number of home runs
++ ID: integer sequence as primary key
+
+I'm interested in finding what features contribute to high batting average, successful home runs, and the relationship between batting average and home runs.
+
+The percentage of left-handed people are much higher than in ordinary population (widely considered 10%).
 
 ### Design
 
