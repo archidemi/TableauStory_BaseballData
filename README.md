@@ -24,19 +24,19 @@ The percentage of left-handed people are much higher than in ordinary population
 
 3. Histograms are used to show the distribution of the players' height and weight. The distributions look pretty normal, with most people in the middle. By coloring the bins with gradient palette, it's quite obvious to grasp which bin gets the highest average score, and even trends.
 
-4. Another scatter plot of batting average vs. home runs also tells the relationship between the two. I first add two layers of height and weight on the points, but the graph turned out to be too crammed and losing information when zoomed in. So in the final version, a single layer of handedness is applied, all data included. Then an important relationship show up (good batting average is essential for more successful home runs).
+4. Another scatter plot of batting average vs. home runs also tells the relationship between the two. I first added two layers of height and weight on the points, but the graph turned out to be too crammed and losing information when zoomed in. So in the final version, a single layer of handedness is applied, all data included. Then an important relationship shows up (good batting average is essential for more successful home runs).
 
-5. The handedness is categorical, so in order to look at how different types of handedness work, a box plot is decided. It gives us the quantiles, max and mins. Where major people fall in each group. A bar chart only showing the average sits together for people who have difficulties reading box plots.
+5. The handedness is categorical, so in order to look at how different types of handedness work, a box plot is decided. It gives us the quantiles, maxes and mins, and where major people fall in each group. A bar chart only showing the average sits together for people who have difficulties reading box plots.
 
-6. One more dashboard is added in the final version to draw a conclusion. Several key plots are put together to filter and play around.
+6. One more dashboard is added in the final version to draw conclusions. Several key plots are put together to filter and play around.
 
 ### Feedback
 Questions are gathered from readers with no data analysis background against the first sketch.
 
 #### Plot 1
 1. What does the "avg" take average on? What does "HR" mean? Count?
-1. Are there easier way to present there are no overlap?
-1. Runner sounds different from home runner.
+1. Are there easier ways to present no overlap exists?
+1. "Runner" sounds different from "home runner".
 
 #### Plot 2
 1. What's the "Avg.Avg."?
@@ -52,10 +52,10 @@ Questions are gathered from readers with no data analysis background against the
 1. The plot names "h-bat-hist", "w-bat-hist" seem mysterious...
 
 #### Plot 6
-1. Only coloring or sizing may be more straightforward instead of the two indicating the same thing.
+1. Only encoding with color or size may be more straightforward instead of the two indicating the same thing.
 
 #### Plot 7
-1. The same thing as in Plot 5.
+1. The same problem as in Plot 5.
 
 #### Plot 8
 1. Lots of presentation but lack of information.
