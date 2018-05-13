@@ -27,7 +27,16 @@ Questions are gathered from the first sketch.
 1. What does the color mean?
 
 #### Plot 5
-1. The plot names "h-bat-hist", "w-bat-hist" is mysterious...
+1. The plot names "h-bat-hist", "w-bat-hist" seem mysterious...
+
+#### Plot 6
+1. Only coloring or sizing may be more straightforward instead of the two indicating the same thing.
+
+#### Plot 7
+1. The same thing as in Plot 5.
+
+#### Plot 8
+1. Lots of presentation but lack of information.
 
 ### Resources
 https://onlinehelp.tableau.com/current/pro/desktop/en-us/buildexamples_histogram.html  
